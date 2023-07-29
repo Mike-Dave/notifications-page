@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [My Solution]()
-- [Live Site URL]()
+- [My Solution](https://www.frontendmentor.io/solutions/notifications-page-CiP0DhXmXZ)
+- [Live Site URL](https://notifications-page-mike.netlify.app/)
 
 ## My process
 
